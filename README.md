@@ -1,4 +1,4 @@
-##DESAFIO MASTERCLASS
+DESAFIO MASTERCLASS
 
 O (IMC) índice de massa corporal é baseado na altura e peso do individuo.
 O calculo é representado por Dividir o peso pela Altura ao quadradro²
